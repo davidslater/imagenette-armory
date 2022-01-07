@@ -17,7 +17,7 @@ armory run resnet18_imagenette.json
 ```
 
 ```
-armory run restnet50_imagenette.json
+armory run resnet50_imagenette.json
 ...
 2022-01-07 00:31:14 2afa23b2b1db armory.utils.metrics[8] INFO Average categorical_accuracy on benign test examples relative to ground truth labels: 80.00%
 ```
