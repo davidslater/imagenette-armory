@@ -26,4 +26,6 @@ NOTE: Use Armory version 0.14.2
 
 # To Submit
 
-Modify either `.json` file as needed and submit using the standard `armory-sender` process.
+Modify either `.json` file as needed and submit them (and any model weights, etc.) using the standard `armory-sender` process.
+
+Remember to give repo access to `armory-twosix` user if private code is used.
